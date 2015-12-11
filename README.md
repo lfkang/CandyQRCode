@@ -1,0 +1,2 @@
+# CandyQRCode
+Qr Code
